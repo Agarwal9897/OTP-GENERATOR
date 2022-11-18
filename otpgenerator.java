@@ -26,6 +26,5 @@ class otpgenerator{
         sc.nextLine();
         otpgenerator o1 = new otpgenerator(size);
         System.out.println(o1.generate_otp());
-        
     }   
 }
